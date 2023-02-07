@@ -10,4 +10,5 @@
 # Installation
 ```
 make
+make gcov_report
 ```
